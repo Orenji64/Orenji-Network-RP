@@ -1,1 +1,238 @@
-{"providers":[{"chars":["ு"],"file":"icons/logo_full.png","ascent":9,"height":12,"type":"bitmap"},{"chars":["௄"],"file":"required/recipe_showcase.png","ascent":40,"height":164,"type":"bitmap"},{"chars":["ெ"],"file":"required/ui/menu_items_gems.png","ascent":37,"height":256,"type":"bitmap"},{"chars":["ே"],"file":"logo/Split/Quart_1.png","ascent":24,"height":24,"type":"bitmap"},{"chars":["ௐ"],"file":"required/null.png","ascent":-32768,"height":-34,"type":"bitmap"},{"chars":["ை"],"file":"logo/Split/Quart_2.png","ascent":24,"height":24,"type":"bitmap"},{"chars":["௉"],"file":"logo/Split/Quart_3.png","ascent":24,"height":24,"type":"bitmap"},{"chars":["௓"],"file":"required/null.png","ascent":-32768,"height":-258,"type":"bitmap"},{"chars":["ொ"],"file":"logo/Split/Quart_4.png","ascent":24,"height":24,"type":"bitmap"},{"chars":["஻"],"file":"default/chat/lord_tag.png","ascent":9,"height":10,"type":"bitmap"},{"chars":["ஹ"],"file":"default/chat/explorer_tag.png","ascent":9,"height":10,"type":"bitmap"},{"chars":["௔"],"file":"required/null.png","ascent":-32768,"height":-514,"type":"bitmap"},{"chars":["௕"],"file":"required/null.png","ascent":-32768,"height":-1026,"type":"bitmap"},{"chars":["ீ"],"file":"icons/logo_icon.png","ascent":8,"height":8,"type":"bitmap"},{"chars":["௎"],"file":"required/null.png","ascent":-32768,"height":-10,"type":"bitmap"},{"chars":["ோ"],"file":"required/null.png","ascent":-32768,"height":-3,"type":"bitmap"},{"chars":["ௌ"],"file":"required/null.png","ascent":-32768,"height":-4,"type":"bitmap"},{"chars":["஼"],"file":"default/chat/prince_tag.png","ascent":9,"height":10,"type":"bitmap"},{"chars":["஽"],"file":"default/chat/king_tag.png","ascent":9,"height":10,"type":"bitmap"},{"chars":["்"],"file":"required/null.png","ascent":-32768,"height":-6,"type":"bitmap"},{"chars":["௏"],"file":"required/null.png","ascent":-32768,"height":-18,"type":"bitmap"},{"chars":["ி"],"file":"default/chat/god_tag.png","ascent":9,"height":10,"type":"bitmap"},{"chars":["ூ"],"file":"icons/heart.png","ascent":8,"height":8,"type":"bitmap"},{"chars":["௃"],"file":"icons/diamond.png","ascent":7,"height":10,"type":"bitmap"},{"chars":["ா"],"file":"default/chat/hero_tag.png","ascent":9,"height":10,"type":"bitmap"},{"chars":["௑"],"file":"required/null.png","ascent":-32768,"height":-66,"type":"bitmap"},{"chars":["ஸ"],"file":"default/chat/farmer_tag.png","ascent":9,"height":10,"type":"bitmap"},{"chars":["஺"],"file":"default/chat/knight_tag.png","ascent":9,"height":10,"type":"bitmap"},{"chars":["௅"],"file":"required/ui/menu_items.png","ascent":37,"height":256,"type":"bitmap"},{"chars":["௒"],"file":"required/null.png","ascent":-32768,"height":-130,"type":"bitmap"}]}
+{
+  "providers": [
+    {
+      "chars": [
+        "\uE000"
+      ],
+      "file": "icons/logo_full.png",
+      "ascent": 9,
+      "height": 12,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "\uE001"
+      ],
+      "file": "logo/quart_1.png",
+      "ascent": 24,
+      "height": 24,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "\uE002"
+      ],
+      "file": "logo/quart_2.png",
+      "ascent": 24,
+      "height": 24,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "\uE003"
+      ],
+      "file": "logo/quart_3.png",
+      "ascent": 24,
+      "height": 24,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "\uE004"
+      ],
+      "file": "logo/quart_4.png",
+      "ascent": 24,
+      "height": 24,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "file": "default/chat/lord_tag.png",
+      "ascent": 9,
+      "height": 10,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "file": "default/chat/explorer_tag.png",
+      "ascent": 9,
+      "height": 10,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "௔"
+      ],
+      "file": "required/null.png",
+      "ascent": -32768,
+      "height": -514,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "௕"
+      ],
+      "file": "required/null.png",
+      "ascent": -32768,
+      "height": -1026,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "ீ"
+      ],
+      "file": "icons/logo_icon.png",
+      "ascent": 8,
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "௎"
+      ],
+      "file": "required/null.png",
+      "ascent": -32768,
+      "height": -10,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "ோ"
+      ],
+      "file": "required/null.png",
+      "ascent": -32768,
+      "height": -3,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "ௌ"
+      ],
+      "file": "required/null.png",
+      "ascent": -32768,
+      "height": -4,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "஼"
+      ],
+      "file": "default/chat/prince_tag.png",
+      "ascent": 9,
+      "height": 10,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "஽"
+      ],
+      "file": "default/chat/king_tag.png",
+      "ascent": 9,
+      "height": 10,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "்"
+      ],
+      "file": "required/null.png",
+      "ascent": -32768,
+      "height": -6,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "௏"
+      ],
+      "file": "required/null.png",
+      "ascent": -32768,
+      "height": -18,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "ி"
+      ],
+      "file": "default/chat/god_tag.png",
+      "ascent": 9,
+      "height": 10,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "ூ"
+      ],
+      "file": "icons/heart.png",
+      "ascent": 8,
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "௃"
+      ],
+      "file": "icons/diamond.png",
+      "ascent": 7,
+      "height": 10,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "ா"
+      ],
+      "file": "default/chat/hero_tag.png",
+      "ascent": 9,
+      "height": 10,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "௑"
+      ],
+      "file": "required/null.png",
+      "ascent": -32768,
+      "height": -66,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "ஸ"
+      ],
+      "file": "default/chat/farmer_tag.png",
+      "ascent": 9,
+      "height": 10,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "஺"
+      ],
+      "file": "default/chat/knight_tag.png",
+      "ascent": 9,
+      "height": 10,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "௅"
+      ],
+      "file": "required/ui/menu_items.png",
+      "ascent": 37,
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "௒"
+      ],
+      "file": "required/null.png",
+      "ascent": -32768,
+      "height": -130,
+      "type": "bitmap"
+    }
+  ]
+}

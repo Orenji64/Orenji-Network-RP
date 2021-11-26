@@ -1,1 +1,29 @@
-{"parent":"item/handheld","textures":{"layer0":"item/diamond_axe"},"overrides":[{"predicate":{"custom_model_data":1},"model":"default/magical_axe"},{"predicate":{"custom_model_data":2},"model":"default/battle_axe"}]}
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_axe"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.85
+            },
+            "model": "item/diamond_axe/diamond_axe_02"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.9
+            },
+            "model": "item/diamond_axe/diamond_axe_03"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.95
+            },
+            "model": "item/diamond_axe/diamond_axe_04"
+        }
+    ]
+}
