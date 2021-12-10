@@ -1,0 +1,6 @@
+{
+  "parent": "custom/portals/parent",
+  "textures": {
+    "portal": "custom/portalsgreen"
+  }
+}

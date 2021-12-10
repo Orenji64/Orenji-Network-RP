@@ -1,15 +1,14 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/leather_helmet",
-    "layer1": "item/leather_helmet_overlay"
+    "layer0": "custom/hats/covid_mask"
   },
   "overrides": [
     {
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "hats/covid_mask"
+      "model": "textures/copper_helmet"
     }
   ]
 }
