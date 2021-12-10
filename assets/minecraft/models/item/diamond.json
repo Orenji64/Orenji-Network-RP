@@ -8,19 +8,19 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "portals/green"
+      "model": "custom/portals/green"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "portals/orange"
+      "model": "custom/portals/orange"
     },
     {
       "predicate": {
         "custom_model_data": 3
       },
-      "model": "portals/cyan"
+      "model": "custom/portals/cyan"
     }
   ]
 }
