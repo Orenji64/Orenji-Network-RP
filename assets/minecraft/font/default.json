@@ -67,7 +67,16 @@
       "chars": [
         "\uE012"
       ],
-      "file": "icons/diamond.png",
+      "file": "icons/globe.png",
+      "ascent": 7,
+      "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        "\uE100"
+      ],
+      "file": "items/diamond.png",
       "ascent": 9,
       "height": 10,
       "type": "bitmap"
