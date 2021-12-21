@@ -1,0 +1,10 @@
+{
+  "bg_music.hub": {
+    "sounds": [
+        {
+            "name": "music/hub",
+            "stream": true
+        }
+    ]
+  }
+}
